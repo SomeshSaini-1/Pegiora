@@ -188,7 +188,7 @@ const Layout = () => {
             <div className="col-md-4 col-lg-6 col-sm-12">
               <div className="footer-logo">
                 <h3>Let’s deliver..</h3>
-                <img src="/image/logo-health.png" alt="logo" style={{ height: "33px" }} />
+                <img src="/image/logo-health.png" alt="logo" style={{ height: "100px" }} />
               </div>
             </div>
             <div className="col-md-8 col-lg-6 col-sm-12">
