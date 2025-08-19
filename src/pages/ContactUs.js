@@ -145,7 +145,7 @@ const ContactUs = () => {
                       <IoMdMail />
                     </div>
                     <h4>Email</h4>
-                    <p>info@pegioralogistics.com</p>
+                    <p>info@pegiora.com</p>
                   </div>
                   <div className="cont-bnr-inrsub">
                     <div className="cbs-icon">

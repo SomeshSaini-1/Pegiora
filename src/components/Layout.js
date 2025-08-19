@@ -201,7 +201,7 @@ const Layout = () => {
                         className="footer-cont-links"
                         to="https://redixpresslogistics.com" target="_blank"
                       >
-                        Pegiora logistics
+                        Pegiora
                       </Link>
                       <Link className="footer-cont-links" to="/blog">
                         Blogs
@@ -229,7 +229,7 @@ const Layout = () => {
                             alt="App Store"
                           />
                         </span>{" "}
-                        info@pegioralogistics.com
+                        info@pegiora.com
                       </Link>
                       <Link className="footer-cont-links" href="#">
                         <span>
