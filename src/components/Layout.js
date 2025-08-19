@@ -304,7 +304,7 @@ const Layout = () => {
               <div className="col-md-6 col-lg-6 col-sm-12 text-lg-start text-md-center mb-3 mb-md-0">
                 <p className="m-0">
                   © Copyright 2025 | All Rights Reserved by{" "}
-                  <a href="/">Redixpress.</a>
+                  <a href="/">Pegiora.</a>
                 </p>
               </div>
               <div className="col-md-6 col-lg-6 col-sm-12 text-lg-end text-md-center">
